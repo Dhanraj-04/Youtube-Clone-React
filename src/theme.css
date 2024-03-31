@@ -1,0 +1,19 @@
+
+.light-mode {
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .dark-mode {
+    background-color: #333333;
+    color: #ffffff;
+  }
+
+.toggle-button {
+    background-color: #ffffff;
+    color: #333333;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+  }
+  

@@ -1,0 +1,23 @@
+.container{
+    background: #f9f9f9;
+    padding-left: 17%;
+    padding-right: 2%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.large-container{
+    padding-left: 7%;
+}
+@media only screen and (min-width: 330px) and (max-width: 900px){
+    .large-container , .container{
+        padding-left:20%;
+        padding-right: 5%;
+}
+}
+@media (max-width:329px){
+    .large-container , .container{
+        padding-left:15%;
+        padding-right: 5%;
+}
+}
+
